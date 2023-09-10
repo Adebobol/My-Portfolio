@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 2rem;
+  border: 0.5px solid rgb(31, 29, 29);
+  height: calc(100vh - 4rem);
+  box-sizing: border-box;
+  background-color: hsl(0, 0%, 90%);
+}
